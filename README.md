@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @mohammedsohail-dev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Django,Maven Projects,DistributedSystems
+- 🌱 I’m currently learning SoftwareEngineering,DistributedSystems,VerilogHDL
+- 💞️ I’m looking to collaborate on Maven Projects
+- 📫 How to reach me msohail17925@gmail.com
 
-<!---
-mohammedsohail-dev/mohammedsohail-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
