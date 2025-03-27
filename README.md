@@ -1,7 +1,18 @@
-- 👋 Hi, I’m @mohammedsohail-dev
-- 👀 I’m interested in Django,Maven Projects,DistributedSystems
-- 🌱 I’m currently learning SoftwareEngineering,DistributedSystems,VerilogHDL
-- 💞️ I’m looking to collaborate on Maven Projects
-- 📫 How to reach me msohail17925@gmail.com
-
-
+- 🔭 **Full-Stack Engineer** | **Data Analyst** | **Distributed Systems** Enthusiast  
+- 🛠️ **Tech Stack**:  
+  - **Backend**: Django | Spring Boot (Maven)  
+  - **Frontend**: Vue.js | Responsive Design  
+  - **Data**: Web Scraping | Predictive Analytics (Python)  
+- 🌐 **Systems**: Building scalable architectures (Microservices, APIs, Databases)  
+- 📊 **Data-Driven**:  
+  - Extracted insights via **automated web scraping**  
+  - Built **predictive models** for trend analysis  
+- 🚀 **Current Focus**:  
+  - Distributed Systems (Raft/Paxos)  
+  - FPGA/Verilog for hardware acceleration  
+  - Full-Stack Optimization (Vue + Django/Spring)  
+- 🤝 **Let’s Collaborate** on:  
+  - **Maven-based** Java projects  
+  - **Data pipelines** (Scraping → Analysis → Viz)  
+  - **Vue + Django/Spring** full-stack apps  
+- 📫 **Reach me**: msohail17925@gmail.com  
