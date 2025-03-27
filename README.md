@@ -8,7 +8,6 @@
   - Extracted insights via **automated web scraping**  
   - Built **predictive models** for trend analysis  
 - 🚀 **Current Focus**:  
-  - Distributed Systems (Raft/Paxos)  
   - FPGA/Verilog for hardware acceleration  
   - Full-Stack Optimization (Vue + Django/Spring)  
 - 🤝 **Let’s Collaborate** on:  
