@@ -1,4 +1,4 @@
-- 🔭 **Full-Stack Engineer** | **Data Analyst** | **Distributed Systems** Enthusiast  
+- 🔭 **Full-Stack Developer** | **Data Analyst**   
 - 🛠️ **Tech Stack**:  
   - **Backend**: Django | Spring Boot (Maven)  
   - **Frontend**: Vue.js | Responsive Design  
