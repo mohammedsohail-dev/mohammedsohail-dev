@@ -1,6 +1,6 @@
 - 🔭 **Full-Stack Developer** | **Data Analyst**   
 - 🛠️ **Tech Stack**:  
-  - **Backend**: Django | Spring Boot (Maven)  
+  - **Backend**: Spring Boot (Maven)  
   - **Frontend**: Vue.js | Responsive Design  
   - **Data**: Web Scraping | Predictive Analytics (Python)  
 - 🌐 **Systems**: Building scalable architectures (Microservices, APIs, Databases)  
